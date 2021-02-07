@@ -13,7 +13,7 @@
       "name": "Veggie",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
       "price": "21.90",
-      "available": true,
+      "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
     {
@@ -21,8 +21,32 @@
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
-      "available": true,
+      "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Novo prato de macarrão",
+      "price": "20.00",
+      "description": "Uma releeitura do clássico prato de macarrão italiana",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Le patti",
+      "price": "30.50",
+      "description": "Uma nova perspectiva de macarrão italiano",
+      "available": true,
+      "id": 5
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Le fua",
+      "price": "80.00",
+      "description": "Macarrão com peixe do norte da Islândia",
+      "available": true,
+      "id": 6
     }
   ]
 }
